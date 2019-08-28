@@ -11,7 +11,7 @@
              用户登陆模块
 
 # 版本
-             后续将用Struts+Hibernate框架更新版本。
+             后续将用Spring+Struts+Hibernate框架更新版本。
 
 # 项目截图
    ![image](https://github.com/hangsss/tmallImages/blob/master/images/1.png)
